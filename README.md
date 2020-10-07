@@ -12,8 +12,7 @@ Both, training and test, data sets are provided via two different files. One (tr
 
 Therefore the genetic mutation (row) with ID=15 in the file training_variants, was classified using the clinical evidence (text) from the row with ID=15 in the file training_text
 
-Finally, to make it more exciting!! Some of the test data is machine-generated to prevent hand labeling. You will submit all the results of your classification algorithm, and we will ignore the machine-generated samples.
-
+Finally, to make it more exciting! Some of the test data is machine-generated to prevent hand labeling.
 ##### It consists of the following datasets:
 
     * training_variants
